@@ -1,6 +1,6 @@
 {
   "latestVersionCode": 2,
-  "isMandatory": true,
+  "isMandatory": false,
   "bazaarUrl": "https://cafebazaar.ir/app/com.sedato.app",
   "myketUrl": "https://myket.ir/app/com.sedato.app",
   "message": "نسخه جدید صداتو منتشر شد! برای ادامه، لطفاً از طریق یکی از استورهای زیر برنامه را بروزرسانی کنید."
